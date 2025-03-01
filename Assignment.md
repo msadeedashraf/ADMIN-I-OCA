@@ -27,8 +27,8 @@
 - Investigate how Oracle enforces the principle of least privilege to protect databases.
 
 **Deliverables:**
-A comparative analysis between system and object privileges.
-A case study explaining a security breach caused by improper privilege assignment and how it could have been prevented.
+- A comparative analysis between system and object privileges.
+- A case study explaining a security breach caused by improper privilege assignment and how it could have been prevented.
 
 ### Assignment 3: Difference Between Logical and Physical Structures in Oracle
 
@@ -36,15 +36,15 @@ A case study explaining a security breach caused by improper privilege assignmen
 -   Understand the core architecture of an Oracle database and how logical structures relate to physical storage.
 
 **Tasks:**
-Explain the difference between Logical and Physical database structures in Oracle.
-Compare Schemas, Tables, Indexes, and Views – what role do they play in logical organization?
-Describe Data Blocks, Extents, and Segments – how do they map to physical storage?
-Research how improper storage management (e.g., fragmentation, poorly designed indexes) can affect performance.
-Analyze a real-world example where understanding logical vs. physical storage helped in troubleshooting performance issues.
+- Explain the difference between Logical and Physical database structures in Oracle.
+- Compare Schemas, Tables, Indexes, and Views – what role do they play in logical organization?
+- Describe Data Blocks, Extents, and Segments – how do they map to physical storage?
+- Research how improper storage management (e.g., fragmentation, poorly designed indexes) can affect performance.
+- Analyze a real-world example where understanding logical vs. physical storage helped in troubleshooting performance issues.
 
 **Deliverables:**
-A diagram illustrating logical and physical structures in an Oracle database.
-A technical report on how logical design choices impact storage performance.
+- A diagram illustrating logical and physical structures in an Oracle database.
+- A technical report on how logical design choices impact storage performance.
 
 ### Assignment 4: Difference Between Shared Server and Dedicated Server Architecture
 
@@ -52,15 +52,15 @@ A technical report on how logical design choices impact storage performance.
 -   Compare Oracle’s Shared Server and Dedicated Server architectures and analyze their impact on performance and resource utilization.
 
 **Tasks:**
-Explain how Oracle processes client requests using both Dedicated and Shared Server modes.
-Compare the pros and cons of Dedicated Server vs. Shared Server in different workloads.
-Research how the Oracle Listener works in both architectures.
-Investigate a real-world scenario where using Shared Server improved system performance.
-Propose a decision-making guide on when to use each architecture based on business needs.
+- Explain how Oracle processes client requests using both Dedicated and Shared Server modes.
+- Compare the pros and cons of Dedicated Server vs. Shared Server in different workloads.
+- Research how the Oracle Listener works in both architectures.
+- Investigate a real-world scenario where using Shared Server improved system performance.
+- Propose a decision-making guide on when to use each architecture based on business needs.
 
 **Deliverables:**
-A comparison table showing performance, scalability, and resource usage differences.
-A decision-making flowchart on when to use Shared vs. Dedicated Server architecture.
+- A comparison table showing performance, scalability, and resource usage differences.
+- A decision-making flowchart on when to use Shared vs. Dedicated Server architecture.
 
 ### Assignment 5: Understanding Oracle Background Processes and Their Role in Database Performance
 
@@ -68,12 +68,12 @@ A decision-making flowchart on when to use Shared vs. Dedicated Server architect
 -   Learn about Oracle’s background processes, their functions, and how they affect database performance and stability.
 
 **Tasks:**
-Identify and describe the key Oracle background processes (e.g., PMON, SMON, DBWn, LGWR, CKPT).
-Explain how each process contributes to database health and recovery.
-Compare checkpointing (CKPT) and redo log writing (LGWR) – how do they interact?
-Research how improper log writer tuning can lead to performance bottlenecks.
-Investigate a real-world incident where background process failure led to database issues.
+- Identify and describe the key Oracle background processes (e.g., PMON, SMON, DBWn, LGWR, CKPT).
+- Explain how each process contributes to database health and recovery.
+- Compare checkpointing (CKPT) and redo log writing (LGWR) – how do they interact?
+- Research how improper log writer tuning can lead to performance bottlenecks.
+- Investigate a real-world incident where background process failure led to database issues.
 
 **Deliverables:**
-A detailed explanation of key background processes and their functions.
-A case study of an Oracle performance issue linked to a background process failure and how it was resolved.
+- A detailed explanation of key background processes and their functions.
+- A case study of an Oracle performance issue linked to a background process failure and how it was resolved.
