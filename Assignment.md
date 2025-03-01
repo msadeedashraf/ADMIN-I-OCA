@@ -1,13 +1,14 @@
 ### Assignment 1: Database Storage – Tablespaces vs. Datafiles vs. Segments
 
-##### Objective: Understand the storage architecture of Oracle databases, how different components relate, and best practices for managing them.
+##### Objective: 
+-   Understand the storage architecture of Oracle databases, how different components relate, and best practices for managing them.
 
 **Tasks:**
-- Explain the difference between Tablespaces, Datafiles, Segments, Extents, and Blocks in Oracle.
-- Compare Permanent, Temporary, and Undo Tablespaces – when and why should each be used?
-- Research how datafiles are managed – auto-extension, manual growth, and space allocation strategies.
-- Analyze how improper tablespace management can affect performance and availability.
-- Investigate what happens when a tablespace runs out of space and propose solutions.
+    - Explain the difference between Tablespaces, Datafiles, Segments, Extents, and Blocks in Oracle.
+    - Compare Permanent, Temporary, and Undo Tablespaces – when and why should each be used?
+    - Research how datafiles are managed – auto-extension, manual growth, and space allocation strategies.
+    - Analyze how improper tablespace management can affect performance and availability.
+    - Investigate what happens when a tablespace runs out of space and propose solutions.
 
 **Deliverables:**
 A comparative table explaining each storage component with examples.
